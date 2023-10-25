@@ -24,13 +24,13 @@ https://docs.github.com/zh/get-started/signing-up-for-github/signing-up-for-a-ne
   特别注意要按照格式创建，方便管理，留给之后的IMAer。
 - 创建过程
 
+### ![git1.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/git1.png?raw=true)
 
+![git2.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/git2.png?raw=true)
 
+![git3.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/git3.png?raw=true)
 
-
-
-
-
+![git4.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/git4.png?raw=true)
 
 ==名字设置：届数+部门+项目名称==
 
@@ -48,31 +48,30 @@ https://docs.github.com/zh/get-started/signing-up-for-github/signing-up-for-a-ne
 
 > https://desktop.github.com/（下载链接）
 
-
+![desktop1.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/desktop1.png?raw=true)
 
 - 利用github登录，然后可以选择自己的仓库名字
 
 进入仓库后
 
-
+![desktop2.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/desktop2.png?raw=true)
 
 - 这就是你本地仓库的地方，如果要往仓库增加，删减东西都可以在这里操作。
 
+![desktop3.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/desktop3.png?raw=true)
 
+- 本地操作完后，先点左下角commit(会将你的修改保存起来，可以多次commit)，对每一次commit进行描述，方便团队协作时别人可以简单了解你修改了什么。
 
-- 本地操作完后，先点左下角commit(会将你的修改保存起来，可以多次commit)，对每一次commit进行描述，方便团队协作时别人可以简单指导你修改了什么。
-
-
+![desktop4.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/desktop4.png?raw=true)
 
 - commit完后点击push可以将这些修改全部提交到github
 
-
+![desktop5.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/desktop5.png?raw=true)
 
 - 然后你就可以在github看到修改的内容了
 
-
-
-
+![desktop6.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/desktop6.png?raw=true)
 
 还可以看到每一次的commit信息。
 
+![desktop7.png](https://github.com/GDUT-IMA/GitHub_Tutorial/blob/main/img/desktop7.png?raw=true)
