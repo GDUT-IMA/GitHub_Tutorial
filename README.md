@@ -24,13 +24,13 @@ https://docs.github.com/zh/get-started/signing-up-for-github/signing-up-for-a-ne
   特别注意要按照格式创建，方便管理，留给之后的IMAer。
 - 创建过程
 
-![ef2699ee3b3292b62ce778d5ad392f8](C:\Users\刘思扬\Documents\WeChat Files\wxid_9fb6axdntjpt22\FileStorage\Temp\ef2699ee3b3292b62ce778d5ad392f8.png)
+![ef2699ee3b3292b62ce778d5ad392f8](C:\Users\刘思扬\Documents\GitHub\GitHub_Tutorial\img\ef2699ee3b3292b62ce778d5ad392f8.png)
 
-![479c23a7ad3f199ccbf97836e78f6ab](C:\Users\刘思扬\Documents\WeChat Files\wxid_9fb6axdntjpt22\FileStorage\Temp\479c23a7ad3f199ccbf97836e78f6ab.png)
 
-![133390c0daaa812c9f700199f70b4ae](C:\Users\刘思扬\Documents\WeChat Files\wxid_9fb6axdntjpt22\FileStorage\Temp\133390c0daaa812c9f700199f70b4ae.png)
 
-![9a4d26a210a9354ca0cb5f6571f9589](C:\Users\刘思扬\Documents\WeChat Files\wxid_9fb6axdntjpt22\FileStorage\Temp\9a4d26a210a9354ca0cb5f6571f9589.png)
+
+
+
 
 ==名字设置：届数+部门+项目名称==
 
